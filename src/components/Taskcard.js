@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Editmodal from "./Editmodal";
 
 export default function Taskcard({ task, setTasks, onDelete }) {
